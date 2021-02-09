@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-111?style=flat-square&logo=jquery&logoColor=white" /> 
   
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-
+<a href="https://codetrace.com/users/eslamoo"><img src="https://codetrace.com/widget/eslamoo" width="550" height="120" /></a>
 </p>
 
 <h3>Where to find me</h3>
@@ -43,4 +43,8 @@ Here are some ideas to get you started:
 <p><a href="https://github.com/eslamoo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/eslam-magdy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://www.facebook.com/essommagdy/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/facebook-3B579D.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=eslamoo&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=eslamoo" />
