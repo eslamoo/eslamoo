@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p>Welcome to my page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></br> I'm Eslam, Frontend Developer from <img src="https://image.flaticon.com/icons/svg/323/323324.svg" width="13"/> <b>Egypt, Cairo</b>
 <h3>Things I code with</h3>
-<a href="https://app.daily.dev/eslamoo"><img src="https://api.daily.dev/devcards/0f06ccb93bf24255a6e0e85546da6f0a.png?r=ukt" width="400" alt="Eslam Magdy's Dev Card"/></a>
+
 <p>
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-61B984?style=flat-square&logo=VUE.JS&logoColor=white" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt.js-39485B?style=flat-square&logo=NUXT.JS&logoColor=white" />
@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 <a href="https://codetrace.com/users/eslamoo"><img src="https://codetrace.com/widget/eslamoo" width="550" height="120" /></a>
 </p>
 
+<h3>I love reading articles</h3>
+<a href="https://app.daily.dev/eslamoo"><img src="https://api.daily.dev/devcards/0f06ccb93bf24255a6e0e85546da6f0a.png?r=ukt" width="400" alt="Eslam Magdy's Dev Card"/></a>
+
 <h3>Where to find me</h3>
 
 <p>
@@ -45,6 +48,8 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/essommagdy/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/facebook-3B579D.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
   
 </p>
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=eslamoo&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=eslamoo" />
