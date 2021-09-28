@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <a href="https://codetrace.com/users/eslamoo"><img src="https://codetrace.com/widget/eslamoo" width="550" height="120" /></a>
 </p>
 
-<h3>I love reading articles</h3>
-<a href="https://app.daily.dev/eslamoo"><img src="https://api.daily.dev/devcards/0f06ccb93bf24255a6e0e85546da6f0a.png?r=ukt" width="400" alt="Eslam Magdy's Dev Card"/></a>
+<h3>Some Statistics</h3>
+<img src="https://wakatime.com/share/@a0024814-d21f-4573-92d2-96ce10df72fa/d388561c-4f59-43e6-a989-b467855d2c94.png" />
 
 <h3>Where to find me</h3>
 
