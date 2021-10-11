@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 
 <h3>Some Statistics</h3>
 <img src="https://wakatime.com/share/@a0024814-d21f-4573-92d2-96ce10df72fa/d388561c-4f59-43e6-a989-b467855d2c94.png" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=eslamoo)](https://github.com/ryo-ma/github-profile-trophy)
+  <img alig src="https://github-profile-trophy.vercel.app/?username=eslamoo&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+
 
 <h3>Where to find me</h3>
 
