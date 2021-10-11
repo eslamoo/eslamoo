@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3>Some Statistics</h3>
-  <img alig src="https://github-profile-trophy.vercel.app/?username=eslamoo&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=eslamoo&no-frame=true&theme=gitdimme&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 
 
 <h3>Where to find me</h3>
