@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-111?style=flat-square&logo=jquery&logoColor=white" /> 
   
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<a href="https://codetrace.com/users/eslamoo"><img src="https://codetrace.com/widget/eslamoo" width="550" height="120" /></a>
+
 </p>
 
 <h3>Some Statistics</h3>
