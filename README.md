@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p>Welcome to my page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></br> I'm Eslam, Frontend Developer from <img src="https://image.flaticon.com/icons/svg/323/323324.svg" width="13"/> <b>Egypt, Cairo</b>
+<p>Welcome to my page! </br> I'm Eslam, Frontend Developer from <img src="https://image.flaticon.com/icons/svg/323/323324.svg" width="13"/> <b>Egypt, Cairo</b>
 <h3>Things I code with</h3>
 
 <p>
