@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <p>
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-61B984?style=flat-square&logo=VUE.JS&logoColor=white" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt.js-39485B?style=flat-square&logo=NUXT.JS&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-513879?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/TailwindCss%20-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
