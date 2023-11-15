@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://www.linkedin.com/in/eslam-magdy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://www.facebook.com/essommagdy/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/facebook-3B579D.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
   
 </p>
 
