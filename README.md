@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Architecting+complex+frontend+systems+%F0%9F%8F%97%EF%B8%8F;Building+scalable+web+components+%26+SPAs+%E2%9C%A8;Turning+complex+logic+into+seamless+UX+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Architecting+scalable+frontend+systems+%F0%9F%8F%97%EF%B8%8F;Building+web+components+%26+micro-frontends+%E2%9C%A8;Turning+business+logic+into+seamless+UX+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,20 +17,20 @@
 const eslam = {
     location: "Cairo, Egypt",
     role: "Frontend Engineer",
-    focus: ["Complex SPA Architecture", "State Management", "Micro-Frontends", "Web Components"],
+    focus: ["SPA Architecture", "State Management", "Micro-Frontends", "Web Components"],
     building: "Scalable platforms & SDK integrations",
-    strengths: ["Bridging design ↔ engineering", "Taming complex frontend logic"],
-    funFact: "I mass-produce entire features before my morning coffee"
+    strengths: ["Bridging design ↔ engineering", "Taming tricky frontend logic"],
+    funFact: "Night owl who ships features at 3 AM, powered by coffee"
 };
 ```
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
 
-- Architecting **complex frontend systems** — SPAs, SDK integrations, micro-frontends
-- Building **web components, SDKs** & design systems at scale
-- Deep in **state management, event-driven architectures** & cross-iframe communication
+- Architecting **scalable frontend systems** with SPAs, SDK integrations, and micro-frontends
+- Building **web components, SDKs** and design systems at scale
+- Deep in **state management, event-driven architectures** and cross-iframe communication
 - Working across **Vue.js, Nuxt, React & TypeScript** daily
-- Turning **complex business logic** into clean, maintainable frontend code
+- Turning **business logic** into clean, maintainable frontend code
 
 <br clear="right"/>
 
