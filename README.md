@@ -1,52 +1,132 @@
+<div align="center">
 
-<!--
-**eslamoo/eslamoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eslam%20Magdy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer&descSize=18&descAlignY=52" width="100%"/>
 
-Here are some ideas to get you started:
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Architecting+complex+frontend+systems+%F0%9F%8F%97%EF%B8%8F;Building+scalable+web+components+%26+SPAs+%E2%9C%A8;Turning+complex+logic+into+seamless+UX+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.ibb.co/NKfCSs4/giphy.gif" width="230">
+</div>
 
-<p>Welcome to my page! </br> I'm Eslam, Frontend Developer from <b>Egypt, Cairo</b>
-<h3>Things I code with</h3>
+<!-- ABOUT ME -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
+```javascript
+const eslam = {
+    location: "Cairo, Egypt",
+    role: "Frontend Engineer",
+    focus: ["Complex SPA Architecture", "State Management", "Micro-Frontends", "Web Components"],
+    building: "Scalable platforms & SDK integrations",
+    strengths: ["Bridging design ↔ engineering", "Taming complex frontend logic"],
+    funFact: "I mass-produce entire features before my morning coffee"
+};
+```
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+
+- Architecting **complex frontend systems** — SPAs, SDK integrations, micro-frontends
+- Building **web components, SDKs** & design systems at scale
+- Deep in **state management, event-driven architectures** & cross-iframe communication
+- Working across **Vue.js, Nuxt, React & TypeScript** daily
+- Turning **complex business logic** into clean, maintainable frontend code
+
+<br clear="right"/>
+
+---
+
+<!-- TECH STACK -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
 <p>
-  <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-61B984?style=flat-square&logo=VUE.JS&logoColor=white" />
-  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt.js-39485B?style=flat-square&logo=NUXT.JS&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-513879?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/TailwindCss%20-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34A22?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Css3" src="https://img.shields.io/badge/-CSS3-2D60D9?style=flat-square&logo=CSS3&logoColor=white" /> 
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-D6BA32?style=flat-square&logo=javascript&logoColor=white" /> 
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-111?style=flat-square&logo=jquery&logoColor=white" /> 
-  
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,html,css&theme=dark" />
 </p>
 
-<h3>Some Statistics</h3>
-  <img alig src="https://github-profile-trophy.vercel.app/?username=eslamoo&no-frame=true&theme=gitdimme&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-
-
-<h3>Where to find me</h3>
-
+### Styling & UI
 <p>
-  <a href="https://www.linkedin.com/in/eslam-magdy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,styledcomponents&theme=dark" />
 </p>
 
+### State & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,graphql,jquery&theme=dark" />
+</p>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=eslamoo" />
+### Build Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vite,webpack,rollupjs,babel,npm,pnpm&theme=dark" />
+</p>
+
+### Testing & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,cypress,cloudflare,githubactions,git,github,vscode,figma&theme=dark" />
+</p>
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslamoo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=eslamoo&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+</div>
+
+<div align="center">
+
+  `TypeScript ████████████████████░░  90%`  `Vue / Nuxt ██████████████████░░░░  80%`
+
+  `React / Next.js ██████████████████░░░░  80%`  `Web Components ████████████████░░░░░░  70%`
+
+  `Tailwind CSS ████████████████████░░  90%`  `Twig / Jinja ████████████████░░░░░░  70%`
+
+</div>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamoo&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true" width="95%"/>
+</div>
+
+---
+
+<!-- SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eslamoo/eslamoo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eslamoo/eslamoo/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/eslamoo/eslamoo/output/github-snake-dark.svg" width="95%"/>
+  </picture>
+</div>
+
+---
+
+<!-- CONNECT -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/eslam-magdy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=eslamoo&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+</div>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
